@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\bin\Debug\net8.0\ContactCatalog88.exe
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\bin\Debug\net8.0\ContactCatalog88.deps.json
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\bin\Debug\net8.0\ContactCatalog88.runtimeconfig.json
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\bin\Debug\net8.0\ContactCatalog88.dll
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\bin\Debug\net8.0\ContactCatalog88.pdb
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.AssemblyInfo.cs
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.dll
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\refint\ContactCatalog88.dll
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.pdb
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.genruntimeconfig.cache
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ref\ContactCatalog88.dll
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.sourcelink.json
