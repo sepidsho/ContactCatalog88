@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\services\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:services\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\menu\\addcontactmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:menu\\addcontactmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\menu\\removecontactmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:menu\\removecontactmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|c:\\users\\pc\\source\\repos\\contactcatalog88\\contactcatalog88\\contactcatalog88.tests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A068CF9-022D-4C84-925D-BA6DFD34A518}|ContactCatalog88.csproj|solutionrelative:contactcatalog88.tests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-30T16:23:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\Menu.cs",
+              "RelativeToolTip": "Menu\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:19:09.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Services\\FileStorage.cs",
+              "RelativeDocumentMoniker": "Services\\FileStorage.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Services\\FileStorage.cs",
+              "RelativeToolTip": "Services\\FileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:07:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:39:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Services\\ContactService.cs",
+              "RelativeToolTip": "Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:29:55.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContactMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\AddContactMenu.cs",
+              "RelativeDocumentMoniker": "Menu\\AddContactMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\AddContactMenu.cs",
+              "RelativeToolTip": "Menu\\AddContactMenu.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:27:37.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveContactMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\RemoveContactMenu.cs",
+              "RelativeDocumentMoniker": "Menu\\RemoveContactMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\Menu\\RemoveContactMenu.cs",
+              "RelativeToolTip": "Menu\\RemoveContactMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:21:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\ContactCatalog88.Tests\\EmailValidatorTests.cs",
+              "RelativeDocumentMoniker": "ContactCatalog88.Tests\\EmailValidatorTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ContactCatalog88\\ContactCatalog88\\ContactCatalog88.Tests\\EmailValidatorTests.cs",
+              "RelativeToolTip": "ContactCatalog88.Tests\\EmailValidatorTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:53:39.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
