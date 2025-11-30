@@ -13,3 +13,4 @@ C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\Cont
 C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.genruntimeconfig.cache
 C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ref\ContactCatalog88.dll
 C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ContactCatalog88\ContactCatalog88\obj\Debug\net8.0\ContactCatalog88.sourcelink.json
